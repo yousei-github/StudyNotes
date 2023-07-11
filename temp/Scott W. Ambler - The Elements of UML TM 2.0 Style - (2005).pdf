@@ -5601,3 +5601,1232 @@ trailer
 startxref
 116
 %%EOF
+217 0 obj<</Annots 1883 0 R/Contents 219 0 R/CropBox[155.52 146.88 443.52 650.88]/LastModified(D:20060526074450-07')/MediaBox[155.52 146.88 443.52 650.88]/Parent 1042 0 R/Resources<</ExtGState 218 0 R/Font<</T1_0 842 0 R/T1_1 843 0 R/T1_2 845 0 R/T1_3 846 0 R/T1_4 844 0 R>>/ProcSet[/PDF/Text]>>/Rotate 0/Type/Page>>endobj1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T22:46:45+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T22:46:45+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:e244d1b2-74a7-43d3-9114-9e385c8ed420</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710224645+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1883 0 obj[1884 0 R 1885 0 R]endobj1884 0 obj<</AP<</N 1886 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/Contents(Three basic elements: symbols, lines, and labels.)/CreationDate(D:20230710224618+09'00')/F 4/IT/HighlightNote/M(D:20230710224643+09'00')/NM(3af28c0d-b882-4754-9a91-bd2910a0eacb)/P 217 0 R/Popup 1885 0 R/QuadPoints[379.732 403.262 422.746 403.262 379.732 391.546 422.746 391.546 177.65 391.306 257.874 391.306 177.65 379.59 257.874 379.59]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.1pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">Three basic elements: symbols, lines, and labels.</span></p></body>)/Rect[174.522 379.224 425.874 403.628]/Subj(Comment on Text)/Subtype/Highlight/T(Yousei)/Type/Annot>>endobj1885 0 obj<</F 28/Open false/Parent 1884 0 R/Rect[443.52 289.262 647.52 403.262]/Subtype/Popup/Type/Annot>>endobj1886 0 obj<</BBox[0.0 0.0 251.352 24.404]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1887 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj1887 0 obj<</BBox[0.0 0.0 251.352 24.404]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1888 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj1888 0 obj<</BBox[174.522 379.224 425.874 403.628]/Filter[/FlateDecode]/FormType 1/Length 157/Matrix[1.0 0.0 0.0 1.0 -174.522 -379.224]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâLéª√0{M¡	˛)Õc iú&M÷ùí:‚Ä;>¬Œ#òÅ‡˝lÑ©¢iö£N–¡ËÊ	ØbÅ#âã*•¿$FÑNtë€3Rî‡Ñ£ô¶Ö-vÛr,síYüﬁ‹p¥G„L˝˜ GÌ‚4ÏΩ+hTgáçÙ2-`Y’R
+ÆñxbO›ÿŸ$C}37r◊ó˜_p≠˙
+0 ÇY@S
+endstreamendobjxref
+0 1
+0000000000 65535 f
+217 1
+0001142673 00000 n
+1086 2
+0001142998 00000 n
+0001146574 00000 n
+1883 6
+0001146813 00000 n
+0001146851 00000 n
+0001147732 00000 n
+0001147848 00000 n
+0001148197 00000 n
+0001148434 00000 n
+trailer
+<</Size 1889/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><E40A15900721A446B0357D63F0B2D92B>]/Prev 116>>
+startxref
+1148810
+%%EOF
+221 0 obj<</Annots 1889 0 R/Contents 223 0 R/CropBox[167.04 146.88 455.04 650.88]/LastModified(D:20060526074451-07')/MediaBox[167.04 146.88 455.04 650.88]/Parent 1042 0 R/Resources<</ExtGState 222 0 R/Font<</T1_0 842 0 R/T1_1 844 0 R/T1_2 847 0 R/T1_3 848 0 R/T1_4 846 0 R/T1_5 851 0 R>>/ProcSet[/PDF/Text]>>/Rotate 0/Type/Page>>endobj1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T22:50:25+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T22:50:25+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:05e15940-7527-4f6c-b4b1-230f750e17fa</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710225025+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1889 0 obj[1890 0 R 1891 0 R]endobj1890 0 obj<</AP<</N 1892 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/Contents(vertical or horizontal lines are recommended)/CreationDate(D:20230710225000+09'00')/F 4/IT/HighlightNote/M(D:20230710225018+09'00')/NM(32d374a6-a30b-48dd-82d4-ee0a11ded062)/P 221 0 R/Popup 1891 0 R/QuadPoints[188.731 385.936 433.776 385.936 188.731 374.22 433.776 374.22 188.731 373.981 421.138 373.981 188.731 362.265 421.138 362.265]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.6pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">vertical or horizontal lines are recommended</span></p></body>)/Rect[185.604 361.898 436.903 386.302]/Subj(Comment on Text)/Subtype/Highlight/T(Yousei)/Type/Annot>>endobj1891 0 obj<</F 28/Open false/Parent 1890 0 R/Rect[455.04 271.936 659.04 385.936]/Subtype/Popup/Type/Annot>>endobj1892 0 obj<</BBox[0.0 0.0 251.3 24.404]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1893 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj1893 0 obj<</BBox[0.0 0.0 251.3 24.404]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1894 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj1894 0 obj<</BBox[185.604 361.898 436.903 386.302]/Filter[/FlateDecode]/FormType 1/Length 148/Matrix[1.0 0.0 0.0 1.0 -185.604 -361.898]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâTé9B1˚ú¬'∞º$^ŒÛ%h†°·˙$¡°ã&öÁa NcÇ◊Ω∫ä¬ªqƒ|≤ÇzGxN60-c2√v(äÏ}ëÌ≠/5Å´uUt^Ï1ô·Pó2ãÏıÚv√’nGô	äıÒWfIÏsF·<∫\Á:ç’%å¨û≈fó(Ffˇâæ”eÌ˚´Í#¿ À@ë
+endstreamendobjxref
+0 1
+0000000000 65535 f
+221 1
+0001149206 00000 n
+1086 2
+0001149544 00000 n
+0001153120 00000 n
+1889 6
+0001153359 00000 n
+0001153397 00000 n
+0001154270 00000 n
+0001154386 00000 n
+0001154733 00000 n
+0001154968 00000 n
+trailer
+<</Size 1895/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><0FFEC4BF17A0F24A9420064019779419>]/Prev 1148810>>
+startxref
+1155335
+%%EOF
+1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T22:51:45+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T22:51:45+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:506d5e2a-c193-4412-ab47-77bcaa13197d</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710225145+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1889 0 obj[1890 0 R 1891 0 R 1895 0 R 1896 0 R]endobj1895 0 obj<</AP<</N 1897 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/Contents(Drawing crossing lines with a jump)/CreationDate(D:20230710225122+09'00')/F 4/IT/HighlightNote/M(D:20230710225140+09'00')/NM(03a8c7d0-9de4-4cda-b399-ebd612091212)/P 221 0 R/Popup 1896 0 R/QuadPoints[232.611 475.354 337.673 475.354 232.611 462.73 337.673 462.73]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.1pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">Drawing crossing lines with a jump</span></p></body>)/Rect[229.24 462.335 341.044 475.749]/Subj(Comment on Text)/Subtype/Highlight/T(Yousei)/Type/Annot>>endobj1896 0 obj<</F 28/Open false/Parent 1895 0 R/Rect[455.04 361.354 659.04 475.354]/Subtype/Popup/Type/Annot>>endobj1897 0 obj<</BBox[0.0 0.0 111.803 13.4136]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1898 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj1898 0 obj<</BBox[0.0 0.0 111.803 13.4136]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1899 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj1899 0 obj<</BBox[229.24 462.335 341.044 475.749]/FormType 1/Length 174/Matrix[1.0 0.0 0.0 1.0 -229.24 -462.335]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0.819611 0 rg
+0.789 w
+232.6107 462.7298 m
+229.635 465.7054 229.635 472.3787 232.6107 475.3544 c
+337.6733 475.3544 l
+340.649 472.3787 340.649 465.7054 337.6733 462.7298 c
+f
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+1086 2
+0001155735 00000 n
+0001159311 00000 n
+1889 1
+0001159550 00000 n
+1895 5
+0001159606 00000 n
+0001160394 00000 n
+0001160510 00000 n
+0001160860 00000 n
+0001161098 00000 n
+trailer
+<</Size 1900/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><6A781C0A3A8E5A479D119AD4CDE1804F>]/Prev 1155335>>
+startxref
+1161468
+%%EOF
+224 0 obj<</Annots 1900 0 R/Contents 226 0 R/CropBox[155.52 146.88 443.52 650.88]/LastModified(D:20060526074452-07')/MediaBox[155.52 146.88 443.52 650.88]/Parent 1042 0 R/Resources<</ExtGState 225 0 R/Font<</T1_0 842 0 R/T1_1 844 0 R/T1_2 848 0 R/T1_3 846 0 R/T1_4 851 0 R>>/ProcSet[/PDF/Text]>>/Rotate 0/Type/Page>>endobj1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:02:02+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:02:02+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:34d8626f-7230-4d35-b599-329796986b46</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710230202+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1900 0 obj[1901 0 R 1902 0 R]endobj1901 0 obj<</AP<</N 1903 0 R>>/C[1.0 0.0 0.0]/Contents(rake symbol)/CreationDate(D:20230710230200+09'00')/F 4/M(D:20230710230200+09'00')/NM(5919317f-44d6-40df-b7c8-a8833c1a2c61)/P 224 0 R/Popup 1902 0 R/QuadPoints[196.751 204.454 245.394 204.454 196.751 192.738 245.394 192.738]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p>rake symbol</p></body>)/Rect[193.257 192.005 248.888 205.186]/Subj(Underline)/Subtype/Underline/T(Yousei)/Type/Annot>>endobj1902 0 obj<</F 28/Open false/Parent 1901 0 R/Rect[443.52 90.4537 647.52 204.454]/Subtype/Popup/Type/Annot>>endobj1903 0 obj<</BBox[193.257 192.005 248.888 205.186]/FormType 1/Length 60/Matrix[1.0 0.0 0.0 1.0 -193.257 -192.005]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0 0 RG
+0.7323 w
+196.7512 194.4114 m
+245.3939 194.4114 l
+S
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+224 1
+0001161849 00000 n
+1086 2
+0001162174 00000 n
+0001165750 00000 n
+1900 4
+0001165989 00000 n
+0001166027 00000 n
+0001166605 00000 n
+0001166721 00000 n
+trailer
+<</Size 1904/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><DC9A38E3C2D8AF498965349339E6D624>]/Prev 1161468>>
+startxref
+1166978
+%%EOF
+227 0 obj<</Annots 1904 0 R/Contents 229 0 R/CropBox[167.04 146.88 455.04 650.88]/LastModified(D:20060526074453-07')/MediaBox[167.04 146.88 455.04 650.88]/Parent 1042 0 R/Resources<</ExtGState 228 0 R/Font<</T1_0 842 0 R/T1_1 844 0 R/T1_2 847 0 R/T1_3 854 0 R/T1_4 848 0 R/T1_5 846 0 R>>/ProcSet[/PDF/Text]>>/Rotate 0/Type/Page>>endobj1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:06:18+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:06:18+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:700c6652-8a57-4b5b-8e00-e4b0abf89a20</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710230618+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1904 0 obj[1905 0 R 1906 0 R]endobj1905 0 obj<</AP<</N 1907 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/Contents(Maximum number of bubble in a diagram: 6)/CreationDate(D:20230710230555+09'00')/F 4/IT/HighlightNote/M(D:20230710230616+09'00')/NM(5b64ed5f-6e40-4100-926c-7657d51b4ca5)/P 227 0 R/Popup 1906 0 R/QuadPoints[228.554 278.218 368.142 278.218 228.554 266.502 368.142 266.502]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.1pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">Maximum number of bubble in a diagram: 6</span></p></body>)/Rect[225.426 266.135 371.27 278.584]/Subj(Comment on Text)/Subtype/Highlight/T(Yousei)/Type/Annot>>endobj1906 0 obj<</F 28/Open false/Parent 1905 0 R/Rect[455.04 164.218 659.04 278.218]/Subtype/Popup/Type/Annot>>endobj1907 0 obj<</BBox[0.0 0.0 145.844 12.4483]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1908 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj1908 0 obj<</BBox[0.0 0.0 145.844 12.4483]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1909 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj1909 0 obj<</BBox[225.426 266.135 371.27 278.584]/FormType 1/Length 179/Matrix[1.0 0.0 0.0 1.0 -225.426 -266.135]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0.819611 0 rg
+0.7323 w
+228.5536 266.5016 m
+225.7921 269.2631 225.7921 275.4561 228.5536 278.2176 c
+368.1424 278.2176 l
+370.9039 275.4561 370.9039 269.2631 368.1424 266.5016 c
+f
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+227 1
+0001167338 00000 n
+1086 2
+0001167676 00000 n
+0001171252 00000 n
+1904 6
+0001171491 00000 n
+0001171529 00000 n
+0001172331 00000 n
+0001172447 00000 n
+0001172797 00000 n
+0001173035 00000 n
+trailer
+<</Size 1910/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><85E0D26F5EB7D94184AD142D32301D62>]/Prev 1166978>>
+startxref
+1173411
+%%EOF
+230 0 obj<</Annots 1910 0 R/Contents 232 0 R/CropBox[155.52 146.88 443.52 650.88]/LastModified(D:20060526074454-07')/MediaBox[155.52 146.88 443.52 650.88]/Parent 1042 0 R/Resources<</ExtGState 231 0 R/Font<</T1_0 842 0 R/T1_1 844 0 R/T1_2 846 0 R/T1_3 843 0 R/T1_4 851 0 R>>/ProcSet[/PDF/Text]>>/Rotate 0/Type/Page>>endobj1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:09:17+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:09:17+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:54b460af-b191-41bc-948b-6e120dec9e35</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710230917+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1910 0 obj[1911 0 R 1912 0 R]endobj1911 0 obj<</AP<</N 1913 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/Contents(read/design left to right and top to bottom)/CreationDate(D:20230710230902+09'00')/F 4/IT/HighlightNote/M(D:20230710230913+09'00')/NM(61ec34e0-5ac7-43a7-a64f-3fe92fedebba)/P 230 0 R/Popup 1912 0 R/QuadPoints[286.777 551.141 422.726 551.141 286.777 539.425 422.726 539.425]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.6pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">read/design left to right and top to bottom</span></p></body>)/Rect[283.65 539.059 425.854 551.507]/Subj(Comment on Text)/Subtype/Highlight/T(Yousei)/Type/Annot>>endobj1912 0 obj<</F 28/Open false/Parent 1911 0 R/Rect[443.52 437.141 647.52 551.141]/Subtype/Popup/Type/Annot>>endobj1913 0 obj<</BBox[0.0 0.0 142.204 12.4483]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1914 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj1914 0 obj<</BBox[0.0 0.0 142.204 12.4483]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1915 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj1915 0 obj<</BBox[283.65 539.059 425.854 551.507]/FormType 1/Length 177/Matrix[1.0 0.0 0.0 1.0 -283.65 -539.059]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0.819611 0 rg
+0.7323 w
+286.7774 539.4247 m
+284.0159 542.1862 284.0159 548.3792 286.7774 551.1407 c
+422.726 551.1407 l
+425.4875 548.3792 425.4875 542.1862 422.726 539.4247 c
+f
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+230 1
+0001173811 00000 n
+1086 2
+0001174136 00000 n
+0001177712 00000 n
+1910 6
+0001177951 00000 n
+0001177989 00000 n
+0001178797 00000 n
+0001178913 00000 n
+0001179263 00000 n
+0001179501 00000 n
+trailer
+<</Size 1916/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><2F824424DE2F3142BFE5A88D7C63AA88>]/Prev 1173411>>
+startxref
+1179874
+%%EOF
+1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:10:59+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:10:59+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:f1f6791f-f10d-4715-931f-244d92581804</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710231059+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1910 0 obj[1911 0 R 1912 0 R 1916 0 R 1917 0 R]endobj1916 0 obj<</AP<</N 1918 0 R>>/C[1.0 0.0 0.0]/Contents(Provide a Notation Legend)/CreationDate(D:20230710231053+09'00')/F 4/M(D:20230710231057+09'00')/NM(4d3da883-46ee-4e5b-bbb5-a0513e634775)/P 230 0 R/Popup 1917 0 R/QuadPoints[196.357 423.087 310.077 423.087 196.357 410.463 310.077 410.463]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-\weight:normal;font-style:normal">Provide a Notation Legend</span></p></body>)/Rect[192.592 409.674 313.842 423.876]/Subj(Underline)/Subtype/Underline/T(Yousei)/Type/Annot>>endobj1917 0 obj<</F 28/Open false/Parent 1916 0 R/Rect[443.52 309.087 647.52 423.087]/Subtype/Popup/Type/Annot>>endobj1918 0 obj<</BBox[192.592 409.674 313.842 423.876]/FormType 1/Length 59/Matrix[1.0 0.0 0.0 1.0 -192.592 -409.674]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0 0 RG
+0.789 w
+196.3566 412.2663 m
+310.0769 412.2663 l
+S
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+1086 2
+0001180274 00000 n
+0001183850 00000 n
+1910 1
+0001184089 00000 n
+1916 3
+0001184145 00000 n
+0001184879 00000 n
+0001184995 00000 n
+trailer
+<</Size 1919/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><97624CCE2EEAAA468631B1CC457E40A6>]/Prev 1179874>>
+startxref
+1185251
+%%EOF
+1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:15:33+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:15:33+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:a209bb6c-1ac8-4ced-9070-62521ae75bfa</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710231533+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1910 0 obj[1911 0 R 1912 0 R 1916 0 R 1917 0 R 1919 0 R 1920 0 R]endobj1919 0 obj<</AP<</N 1921 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/Contents(What is the simplicity: Including only critical information on your diagrams and to exclude anything extraneous)/CreationDate(D:20230710231446+09'00')/F 4/IT/HighlightNote/M(D:20230710231531+09'00')/NM(3f466479-fedc-496b-8b4e-3c2b8b1fabe6)/P 230 0 R/Popup 1920 0 R/QuadPoints[188.695 216.407 422.724 216.407 188.695 204.691 422.724 204.691 177.649 204.452 292.194 204.452 177.649 192.736 292.194 192.736]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.6pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">What is the simplicity: Including only critical information on your diagrams and to exclude anything extraneous</span></p></body>)/Rect[174.521 192.37 425.852 216.774]/Subj(Comment on Text)/Subtype/Highlight/T(Yousei)/Type/Annot>>endobj1920 0 obj<</F 28/Open false/Parent 1919 0 R/Rect[272.32 100.48 746.82 216.48]/Subtype/Popup/Type/Annot>>endobj1921 0 obj<</BBox[0.0 0.0 251.33 24.4039]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1922 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj1922 0 obj<</BBox[0.0 0.0 251.33 24.4039]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1923 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj1923 0 obj<</BBox[174.521 192.37 425.852 216.774]/Filter[/FlateDecode]/FormType 1/Length 158/Matrix[1.0 0.0 0.0 1.0 -174.521 -192.37]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâDé;!{N·X¯áÌÛ¨î4õ&MÆË–‡=ÇéA9à†√˚Ÿ:∫∞¿ßQé4ÓZ2x3Lë,Ê®∆	áê‡–G£Å⁄›‡j åŒø£?ªãjònÒÄ’>⁄ZpµG#˜∫ ˙ãπÀ#\äU$ÁcÓTnWÿﬁ¨©QVç+A©rÿ]L1≠≤€‹d◊∑∑7Ãe_ !¢@Ÿ
+endstreamendobjxref
+0 1
+0000000000 65535 f
+1086 2
+0001185592 00000 n
+0001189168 00000 n
+1910 1
+0001189407 00000 n
+1919 5
+0001189481 00000 n
+0001190489 00000 n
+0001190603 00000 n
+0001190952 00000 n
+0001191189 00000 n
+trailer
+<</Size 1924/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><59D3D65BCAF5E8499177F5CBBA5F82A2>]/Prev 1185251>>
+startxref
+1191564
+%%EOF
+233 0 obj<</Annots 1924 0 R/Contents 235 0 R/CropBox[167.04 146.88 455.04 650.88]/LastModified(D:20060526074455-07')/MediaBox[167.04 146.88 455.04 650.88]/Parent 1043 0 R/Resources<</ExtGState 234 0 R/Font<</T1_0 842 0 R/T1_1 844 0 R/T1_2 854 0 R/T1_3 848 0 R/T1_4 846 0 R>>/ProcSet[/PDF/Text]>>/Rotate 0/Type/Page>>endobj1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:18:21+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:18:21+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:2c34715b-c98b-4965-ad9f-6e2fec093c83</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710231821+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1924 0 obj[1925 0 R 1926 0 R]endobj1925 0 obj<</AP<</N 1927 0 R>>/C[1.0 0.0 0.0]/Contents(often proves to be sufficient.)/CreationDate(D:20230710231819+09'00')/F 4/M(D:20230710231819+09'00')/NM(f1e5de79-8e19-4c5b-88ef-6ac43c164559)/P 233 0 R/Popup 1926 0 R/QuadPoints[343.258 396.562 433.786 396.562 343.258 384.846 433.786 384.846 188.731 384.606 216.526 384.606 188.731 372.89 216.526 372.89]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p>often proves to be sufficient.</p></body>)/Rect[185.238 372.158 437.279 397.294]/Subj(Underline)/Subtype/Underline/T(Yousei)/Type/Annot>>endobj1926 0 obj<</F 28/Open false/Parent 1925 0 R/Rect[455.04 282.562 659.04 396.562]/Subtype/Popup/Type/Annot>>endobj1927 0 obj<</BBox[185.238 372.158 437.279 397.294]/FormType 1/Length 102/Matrix[1.0 0.0 0.0 1.0 -185.238 -372.158]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0 0 RG
+0.7323 w
+343.2582 386.5195 m
+433.7856 386.5195 l
+S
+188.7313 374.5639 m
+216.5256 374.5639 l
+S
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+233 1
+0001191945 00000 n
+1086 2
+0001192270 00000 n
+0001195846 00000 n
+1924 4
+0001196085 00000 n
+0001196123 00000 n
+0001196801 00000 n
+0001196917 00000 n
+trailer
+<</Size 1928/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><DBC32F0188F1434A9153B9BE14B29564>]/Prev 1191564>>
+startxref
+1197217
+%%EOF
+236 0 obj<</Annots 1928 0 R/Contents 238 0 R/CropBox[155.52 146.88 443.52 650.88]/LastModified(D:20060526074456-07')/MediaBox[155.52 146.88 443.52 650.88]/Parent 1043 0 R/Resources<</ExtGState 237 0 R/Font<</T1_0 842 0 R/T1_1 844 0 R/T1_2 855 0 R/T1_3 846 0 R>>/ProcSet[/PDF/Text]>>/Rotate 0/Type/Page>>endobj1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:22:14+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:22:14+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:33da19a1-174d-4b28-adc8-00eca886beba</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710232214+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1928 0 obj[1929 0 R 1930 0 R]endobj1929 0 obj<</AP<</N 1931 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/Contents(7 +/- 2 rule)/CreationDate(D:20230710232156+09'00')/F 4/IT/HighlightNote/M(D:20230710232213+09'00')/NM(ce2cb6c6-3988-4e88-8074-ae35de94be7f)/P 236 0 R/Popup 1930 0 R/QuadPoints[225.257 599.024 422.736 599.024 225.257 587.308 422.736 587.308 387.804 588.627 395.943 588.627 387.804 578.166 395.943 578.166 177.65 587.068 384.836 587.068 177.65 575.352 384.836 575.352 398.902 587.068 422.732 587.068 398.902 575.352 422.732 575.352]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.6pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">7 </span><span dir="ltr" style="font-size:10.6pt;text-align:left;color:#000000;font-weight:normal;font-style:italic">+/- </span><span dir="ltr" style="font-size:10.6pt;text-align:left;color:#000000;font-weight:normal;font-s\tyle:normal">2 rule</span></p></body>)/Rect[174.522 574.986 425.864 599.39]/Subj(Comment on Text)/Subtype/Highlight/T(Yousei)/Type/Annot>>endobj1930 0 obj<</F 28/Open false/Parent 1929 0 R/Rect[443.52 485.024 647.52 599.024]/Subtype/Popup/Type/Annot>>endobj1931 0 obj<</BBox[0.0 0.0 251.341 24.4039]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1932 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj1932 0 obj<</BBox[0.0 0.0 251.341 24.4039]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1933 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj1933 0 obj<</BBox[174.522 574.986 425.864 599.39]/Filter[/FlateDecode]/FormType 1/Length 248/Matrix[1.0 0.0 0.0 1.0 -174.522 -574.986]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâLëπqƒ0 sUÅ
+0ƒ÷s3æDNú∏}C>J`∫‰Bë``“t"Û>Ü∞¿Ô¡l»`(#	æ1Í4õáOáç8≤ÛEñ6'VÇ◊°u)ƒf≥≥òï⁄‚F÷ˆÓÑ◊ÒUÅní(Es®ÄE"πkJä§óR˜Ña^ó»°µLtÆ©2ßr4;ã%ÍH›Ã&k¯£›ü¿ı)]g÷qE[R(fÊä&Ö©µd@[:<ÌÍ´≥ÁfÁˇ˙6#±¡›÷˝˝+Ô⁄b¶ΩJÍHá∑˙Ä{¯cu’Á}(ˆ™œ+
+=bÉ5∫≠ΩÍOÄ 
+endstreamendobjxref
+0 1
+0000000000 65535 f
+236 1
+0001197577 00000 n
+1086 2
+0001197889 00000 n
+0001201465 00000 n
+1928 6
+0001201704 00000 n
+0001201742 00000 n
+0001202910 00000 n
+0001203026 00000 n
+0001203376 00000 n
+0001203614 00000 n
+trailer
+<</Size 1934/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><2A7C658D0733D546A84104EC4976FDB7>]/Prev 1197217>>
+startxref
+1204080
+%%EOF
+241 0 obj<</Annots 1934 0 R/Contents 243 0 R/CropBox[167.04 146.88 455.04 650.88]/LastModified(D:20060526074458-07')/MediaBox[167.04 146.88 455.04 650.88]/Parent 1043 0 R/Resources<</ExtGState 242 0 R/Font<</T1_0 842 0 R/T1_1 844 0 R/T1_2 843 0 R/T1_3 846 0 R/T1_4 851 0 R>>/ProcSet[/PDF/Text]>>/Rotate 0/Type/Page>>endobj1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:38:28+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:38:28+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:a7720506-515e-4ec8-bb55-fa7e85418f20</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710233828+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1928 0 obj[1929 0 R 1930 0 R 1938 0 R 1939 0 R]endobj1934 0 obj[1935 0 R 1936 0 R]endobj1935 0 obj<</AP<</N 1937 0 R>>/C[1.0 0.0 0.0]/Contents(Design diagrams should reflect implementation issues)/CreationDate(D:20230710233820+09'00')/F 4/M(D:20230710233826+09'00')/NM(ba33c89b-233d-434c-8049-03e96eca0fee)/P 241 0 R/Popup 1936 0 R/QuadPoints[188.731 359.933 417.666 359.933 188.731 348.217 417.666 348.217]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-\weight:normal;font-style:normal">Design diagrams should reflect implementation issues</span></p></body>)/Rect[185.238 347.484 421.159 360.665]/Subj(Underline)/Subtype/Underline/T(Yousei)/Type/Annot>>endobj1936 0 obj<</F 28/Open false/Parent 1935 0 R/Rect[455.04 245.933 659.04 359.933]/Subtype/Popup/Type/Annot>>endobj1937 0 obj<</BBox[185.238 347.484 421.159 360.665]/FormType 1/Length 60/Matrix[1.0 0.0 0.0 1.0 -185.238 -347.484]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0 0 RG
+0.7323 w
+188.7313 349.8904 m
+417.6657 349.8904 l
+S
+
+endstreamendobj1938 0 obj<</AP<</N 1940 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/Contents(Single page for a diagram)/CreationDate(D:20230710233438+09'00')/F 4/IT/HighlightNote/M(D:20230710233502+09'00')/NM(bbc3076f-febd-4b3f-9877-663e1e8d31cb)/P 236 0 R/Popup 1939 0 R/QuadPoints[177.65 463.515 422.763 463.515 177.65 451.799 422.763 451.799 177.65 451.56 422.767 451.56 177.65 439.844 422.767 439.844 177.65 439.604 420.759 439.604 177.65 427.888 420.759 427.888]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.1pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">Single page for a diagram</span></p></body>)/Rect[174.522 427.522 425.895 463.881]/Subj(Comment on Text)/Subtype/Highlight/T(Yousei)/Type/Annot>>endobj1939 0 obj<</F 28/Open false/Parent 1938 0 R/Rect[443.52 349.515 647.52 463.515]/Subtype/Popup/Type/Annot>>endobj1940 0 obj<</BBox[0.0 0.0 251.372 36.3596]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1941 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj1941 0 obj<</BBox[0.0 0.0 251.372 36.3596]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1942 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj1942 0 obj<</BBox[174.522 427.522 425.895 463.881]/Filter[/FlateDecode]/FormType 1/Length 187/Matrix[1.0 0.0 0.0 1.0 -174.522 -427.522]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâTê;rC1 ˚w
+N¿à?:ègú&i“‰˙A∂e‰vG+&M'Çø_◊¿¯ª(]gÇaÃ)SL13•ò¢˘Hh‚eö,≤=42Å€•Ã.‹Ïªò°±FõMˆÙˆv√Ì∫?ÀT&¶äwW1eÙa…2ì`[5…l˙ª*Ì®S;»kÙ[€˚œ&éZÛ£I∆:àM‚e≤¡Ò˙HZ∑®∑≠§:èŸ÷A^ì[€˚W”ø  ›(].
+endstreamendobjxref
+0 1
+0000000000 65535 f
+241 1
+0001204480 00000 n
+1086 2
+0001204805 00000 n
+0001208381 00000 n
+1928 1
+0001208620 00000 n
+1934 9
+0001208676 00000 n
+0001208714 00000 n
+0001209502 00000 n
+0001209618 00000 n
+0001209875 00000 n
+0001210768 00000 n
+0001210884 00000 n
+0001211234 00000 n
+0001211472 00000 n
+trailer
+<</Size 1943/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><E9D2C924D1D4D8429D590A16A6A94A8C>]/Prev 1204080>>
+startxref
+1211878
+%%EOF
+1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:38:49+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:38:49+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:12feccad-7f63-434a-ab9a-2d2d7e1909ca</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710233849+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1934 0 obj[1935 0 R 1936 0 R 1943 0 R 1944 0 R]endobj1943 0 obj<</AP<</N 1945 0 R>>/C[1.0 0.0 0.0]/Contents(Requirements and analysis-oriented diagrams should not reflect language issues)/CreationDate(D:20230710233834+09'00')/F 4/M(D:20230710233844+09'00')/NM(6b770c05-a74a-460b-8b9e-f3f96dbd322c)/P 241 0 R/Popup 1944 0 R/QuadPoints[360.004 336.021 433.826 336.021 360.004 324.305 433.826 324.305 188.731 324.066 433.828 324.066 188.731 312.35 433.828 312.35]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-\weight:normal;font-style:normal">Requirements and analysis-oriented diagrams should not reflect language issues</span></p></body>)/Rect[185.238 311.617 437.321 336.754]/Subj(Underline)/Subtype/Underline/T(Yousei)/Type/Annot>>endobj1944 0 obj<</F 28/Open false/Parent 1943 0 R/Rect[156.907 221.947 869.407 335.947]/Subtype/Popup/Type/Annot>>endobj1945 0 obj<</BBox[185.238 311.617 437.321 336.754]/FormType 1/Length 102/Matrix[1.0 0.0 0.0 1.0 -185.238 -311.617]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0 0 RG
+0.7323 w
+360.0041 325.9791 m
+433.8258 325.9791 l
+S
+188.7313 314.0234 m
+433.8276 314.0234 l
+S
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+1086 2
+0001212366 00000 n
+0001215942 00000 n
+1934 1
+0001216181 00000 n
+1943 3
+0001216237 00000 n
+0001217139 00000 n
+0001217257 00000 n
+trailer
+<</Size 1946/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><030B6F73565EC24F9BD09BE71F644CC2>]/Prev 1211878>>
+startxref
+1217557
+%%EOF
+1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:39:02+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:39:02+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:238e031b-5293-44d8-a5ca-1e176383809f</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710233902+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1935 0 obj<</AP<</N 1937 0 R>>/C[1.0 0.0 0.0]/Contents(Design diagrams should reflect implementation issues)/CreationDate(D:20230710233820+09'00')/F 4/M(D:20230710233900+09'00')/NM(ba33c89b-233d-434c-8049-03e96eca0fee)/P 241 0 R/Popup 1936 0 R/QuadPoints[188.731 359.933 417.666 359.933 188.731 348.217 417.666 348.217]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:-14.0pt;text-align:left;color:#000000;font-\weight:normal;font-style:normal">Design diagrams should reflect implementation issues</span></p></body>)/Rect[185.238 347.484 421.159 360.665]/Subj(Underline)/Subtype/Underline/T(Yousei)/Type/Annot>>endobj1936 0 obj<</F 28/Open false/Parent 1935 0 R/Rect[455.04 245.933 659.04 359.933]/Subtype/Popup/Type/Annot>>endobjxref
+0 1
+0000000000 65535 f
+1086 2
+0001217898 00000 n
+0001221474 00000 n
+1935 2
+0001221713 00000 n
+0001222501 00000 n
+trailer
+<</Size 1946/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><888198AC4AACFE4AAB8333EF2BBA86EF>]/Prev 1217557>>
+startxref
+1222617
+%%EOF
+1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:41:12+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:41:12+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:eff17ba3-17c5-4eae-814e-832614e00967</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710234112+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1934 0 obj[1935 0 R 1936 0 R 1943 0 R 1944 0 R 1946 0 R 1947 0 R]endobj1946 0 obj<</AP<</N 1948 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/Contents(Keep consistency on names between different diagrams)/CreationDate(D:20230710234039+09'00')/F 4/IT/HighlightNote/M(D:20230710234110+09'00')/NM(79c3c7ec-7021-42e2-a88f-c3b54b3a7816)/P 241 0 R/Popup 1947 0 R/QuadPoints[340.769 216.407 433.807 216.407 340.769 204.691 433.807 204.691 188.731 204.451 433.817 204.451 188.731 192.735 433.817 192.735 188.731 192.496 258.358 192.496 188.731 180.78 258.358 180.78]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:10.1pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">Keep consistency on names between different diagrams</span></p></body>)/Rect[185.604 180.414 436.945 216.773]/Subj(Comment on Text)/Subtype/Highlight/T(Yousei)/Type/Annot>>endobj1947 0 obj<</F 28/Open false/Parent 1946 0 R/Rect[455.04 102.407 659.04 216.407]/Subtype/Popup/Type/Annot>>endobj1948 0 obj<</BBox[0.0 0.0 251.341 36.3596]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1949 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj1949 0 obj<</BBox[0.0 0.0 251.341 36.3596]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1950 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj1950 0 obj<</BBox[185.604 180.414 436.945 216.773]/Filter[/FlateDecode]/FormType 1/Length 199/Matrix[1.0 0.0 0.0 1.0 -185.604 -180.414]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâTê;é!DsN·X˛`üg§›d6ôdÆøn©∫#¨'™x‘9êPßœoÎ<e}õhçû†—ïèÛØâ˜>Ω–dµa¥	Ñ]Õi«‡¨}Ç^ME8˙‘Õﬁ≈úÕ#wrì´}ÁNÖW˚ià(E!G¶%Ü0Nœ(f¨5—"£É´Ù gÓ(SÉ^bò7väÕ∏%YÌ+∑ûfQ0s>ÃBÿÉn$Î∫
+=6“¥®∂a¡Rènˆn√¡@ Nﬁ»Ÿæsó√aˆ/¿ ‡^¯
+endstreamendobjxref
+0 1
+0000000000 65535 f
+1086 2
+0001222910 00000 n
+0001226486 00000 n
+1934 1
+0001226725 00000 n
+1946 5
+0001226799 00000 n
+0001227752 00000 n
+0001227868 00000 n
+0001228218 00000 n
+0001228456 00000 n
+trailer
+<</Size 1951/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><C05F8815A9F0CC47ACFDB8106EF3D18C>]/Prev 1222617>>
+startxref
+1228874
+%%EOF
+244 0 obj<</Annots 1951 0 R/Contents 246 0 R/CropBox[155.52 146.88 443.52 650.88]/LastModified(D:20060526074459-07')/MediaBox[155.52 146.88 443.52 650.88]/Parent 1043 0 R/Resources<</ExtGState 245 0 R/Font<</T1_0 842 0 R/T1_1 844 0 R/T1_2 843 0 R/T1_3 846 0 R/T1_4 851 0 R>>/ProcSet[/PDF/Text]>>/Rotate 0/Type/Page>>endobj1086 0 obj<</Length 3496/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-07-10T23:43:29+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2005-02-21T16:16:44Z</xmp:CreateDate>
+         <xmp:MetadataDate>2023-07-10T23:43:29+09:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Textures.: LaserWriter 8 Z1-8.7.1</xmp:CreatorTool>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">The Elements of UML 2.0 Style</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Scott W.Ambler</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmpMM:DocumentID>uuid:ba8ac4b8-41c3-4af1-a98e-3706d1de6a82</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:5fd1f7ed-25b7-4c78-97f5-ed8849391706</xmpMM:InstanceID>
+         <pdf:Producer>Acrobat Distiller 5.0.5 for Macintosh</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj1087 0 obj<</Author(Scott W.Ambler)/CreationDate(D:20050221161644Z)/Creator(Textures.: LaserWriter 8 Z1-8.7.1)/ModDate(D:20230710234329+09'00')/Producer(Acrobat Distiller 5.0.5 for Macintosh)/Title(The Elements of UML 2.0 Style)>>endobj1951 0 obj[1952 0 R 1953 0 R]endobj1952 0 obj<</AP<</N 1954 0 R>>/C[1.0 0.0 0.0]/Contents(Indicate Unknowns with a Question Mark)/CreationDate(D:20230710234324+09'00')/F 4/M(D:20230710234324+09'00')/NM(2e24415e-f7f4-495d-91a0-a6dec75073ee)/P 244 0 R/Popup 1953 0 R/QuadPoints[196.357 575.093 376.455 575.093 196.357 562.469 376.455 562.469]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:21.1.0" xfa:spec="2.0.2" ><p>Indicate Unknowns with a Question Mark</p></body>)/Rect[192.592 561.68 380.219 575.882]/Subj(Underline)/Subtype/Underline/T(Yousei)/Type/Annot>>endobj1953 0 obj<</F 28/Open false/Parent 1952 0 R/Rect[443.52 461.093 647.52 575.093]/Subtype/Popup/Type/Annot>>endobj1954 0 obj<</BBox[192.592 561.68 380.219 575.882]/FormType 1/Length 59/Matrix[1.0 0.0 0.0 1.0 -192.592 -561.68]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0 0 RG
+0.789 w
+196.3566 564.2723 m
+376.4547 564.2723 l
+S
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+244 1
+0001229255 00000 n
+1086 2
+0001229580 00000 n
+0001233156 00000 n
+1951 4
+0001233395 00000 n
+0001233433 00000 n
+0001234064 00000 n
+0001234180 00000 n
+trailer
+<</Size 1955/Root 1089 0 R/Info 1087 0 R/ID[<042E883384666D46AA24A70B352778A0><6B433F7B84187D4B96B8B831233FBBBF>]/Prev 1228874>>
+startxref
+1234434
+%%EOF
